@@ -77,7 +77,7 @@ iframe
 .foot {
     overflow: hidden;
     position: absolute;
-    top: 102%;
+    top: 112%;
     /* left: 10%; */
     border-top: 2px solid #1B98E0;
     display: flex;
